@@ -1,16 +1,25 @@
-## Hi there 👋
+# Personal Portfolio Project
+## Project Outline
 
-<!--
-**louisestaynings/louisestaynings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Build a personal portfolio site
+* Use HTML & CSS
+* Add at least one interactive feature using JavaScript
+* Use Git version control
+* Use the command line and file navigation
+* Develop locally on your computer
+  
+## My Project Objective
 
-Here are some ideas to get you started:
+The Objective of this project is to to build a static website to showcase your projects that you create and to also show the skills you have learned and to have contact information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+* HTML
+* CSS
+* JavaScript
+* Visual Studio Code
+* Git and GitHub
+* Command line
+  
+## Author
+
+Louise Staynings
